@@ -1,21 +1,11 @@
-# URL Shortner Website
-    developed by JV Logesh For youtube channel "JVL code"
-
-## Requirements:
-    - PHP 7.4
-    - Composer (latest version)
-    - Mysql Database
+This is a To-Do list with Ajax application
 
 
-## How to use:
-- 1.Clone or Dwonload this repository to your computer
-- 2.Open your terminal (command prompt)
-- 3.Change the directory to your Downloaded folder
-- 4.type and run the command "composer install" 
-- 5.Wait for installing the composer packages
-- 5.Copy the contents from .env.example
-- 6.Create .env file and paste the contents
-- 7.In .env file, file DB_DATABASE, DB_USER, DB_PASSWORD details with your mysql database details and save
-- 8.START your mysql server database  and ensure it runs
-- 9.type and run the command "php artisan serve" 
-- 10.Go to development server url http://127.0.0.1:8000. Thats all.
+##Add New Task
+![image](https://github.com/thanushan128/To-Do-List-With-Ajax_/assets/126770666/840452f5-ad36-4dc8-9baa-cafdc7c69c9b)
+
+##Edit Task
+![image](https://github.com/thanushan128/To-Do-List-With-Ajax_/assets/126770666/fb74d9db-5501-4953-b976-52ed39b12bce)
+
+##Done Task
+![image](https://github.com/thanushan128/To-Do-List-With-Ajax_/assets/126770666/8263ac2a-1914-4c6e-b364-d82dc7b12159)
